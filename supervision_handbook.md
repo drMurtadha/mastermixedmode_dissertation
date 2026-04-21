@@ -4,6 +4,7 @@
 
 **[Student Briefing Document](student_briefing.md)**
 
+**[Week-by-week Supervision Logbook](logbook.md)**
 ---
 
 # Formal Supervision Handbook
@@ -594,3 +595,5 @@ The dissertation is the clearest evidence of the student’s maturity as a postg
 **[Supervision Handbook](supervision_handbook.md)**
 
 **[Student Briefing Document](student_briefing.md)**
+
+**[Week-by-week Supervision Logbook](logbook.md)**
