@@ -1,3 +1,13 @@
+**[Structured Guidance for a New Mixed-Mode Master Student](README.md)**
+
+**[Supervision Handbook](supervision_handbook.md)**
+
+**[Student Briefing Document](student_briefing.md)**
+
+**[Week-by-week Supervision Logbook](logbook.md)**
+
+---
+
 # Week-by-Week Supervision Logbook  
 ## Master of Computer Science (Mixed Mode)  
 ## Dissertation Supervision Checklist
