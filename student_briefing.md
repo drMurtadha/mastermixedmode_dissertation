@@ -4,6 +4,8 @@
 
 **[Student Briefing Document](student_briefing.md)**
 
+**[Week-by-week Supervision Logbook](logbook.md)**
+
 ---
 
 # Student Briefing Document
@@ -455,3 +457,5 @@ Your dissertation should be built carefully from the first week. Choose a focuse
 **[Supervision Handbook](supervision_handbook.md)**
 
 **[Student Briefing Document](student_briefing.md)**
+
+**[Week-by-week Supervision Logbook](logbook.md)**
