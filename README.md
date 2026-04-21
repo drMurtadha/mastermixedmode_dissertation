@@ -569,3 +569,5 @@ The uploaded assessment form has dedicated spaces for strengths, weaknesses, and
 ## Final supervisor message to a new student
 
 Your dissertation must be built as an academically defensible study from the first week. Choose a topic with a clear problem, define a narrow and feasible scope, review the literature critically, design a methodology that can be justified and replicated, analyse results properly, and write with clarity and discipline. If you do these well, your dissertation will satisfy not only the chapter requirements, but also the deeper assessment expectations of originality, critical ability, presentation quality, contribution, and publication potential shown in the evaluation form.  [oai_citation:10‡SKM_C650i26032611060.pdf](sediment://file_000000001808720b895bb6f0bc0818f9)
+
+[Supervision Handbook](supervision_handbook.md)
