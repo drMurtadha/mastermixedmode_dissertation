@@ -1,3 +1,11 @@
+**[Structured Guidance for a New Mixed-Mode Master Student](README.md)**
+
+**[Supervision Handbook](supervision_handbook.md)**
+
+**[Student Briefing Document](student_briefing.md)**
+
+---
+
 # Student Briefing Document
 
 ## Master of Computer Science (Mixed Mode)
@@ -440,3 +448,10 @@ Keep these points with you from the beginning:
 ## 16. Final message to the student
 
 Your dissertation should be built carefully from the first week. Choose a focused topic, define a real problem, review the literature critically, design a sound methodology, present and interpret results properly, and write with discipline. If you do this consistently, your dissertation will not only satisfy the required chapter structure, but also meet the deeper expectations reflected in the formal assessment, including originality, critical understanding, presentation quality, contribution, and publication potential.  [oai_citation:2‡SKM_C650i26032611060.pdf](sediment://file_000000001808720b895bb6f0bc0818f9)
+
+---
+**[Structured Guidance for a New Mixed-Mode Master Student](README.md)**
+
+**[Supervision Handbook](supervision_handbook.md)**
+
+**[Student Briefing Document](student_briefing.md)**
