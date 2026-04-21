@@ -5,6 +5,7 @@
 **[Student Briefing Document](student_briefing.md)**
 
 **[Week-by-week Supervision Logbook](logbook.md)**
+
 ---
 
 # Formal Supervision Handbook
