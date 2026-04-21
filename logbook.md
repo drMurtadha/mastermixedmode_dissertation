@@ -757,3 +757,13 @@ Suggested status labels:
 ## Final Note
 
 A strong mixed-mode dissertation is built through steady weekly progress, not occasional bursts of work. If this logbook is used consistently, the dissertation will be more likely to satisfy not only the required chapter structure, but also the deeper assessment expectations reflected in the evaluation form, including critical understanding, methodological rigour, interpretation of findings, quality of presentation, contribution, and publication potential.  [oai_citation:11‡SKM_C650i26032611060.pdf](sediment://file_000000001808720b895bb6f0bc0818f9)
+
+---
+
+**[Structured Guidance for a New Mixed-Mode Master Student](README.md)**
+
+**[Supervision Handbook](supervision_handbook.md)**
+
+**[Student Briefing Document](student_briefing.md)**
+
+**[Week-by-week Supervision Logbook](logbook.md)**
