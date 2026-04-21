@@ -4,6 +4,8 @@
 
 **[Student Briefing Document](student_briefing.md)**
 
+**[Week-by-week Supervision Logbook](logbook.md)**
+
 ---
 
 # Structured Guidance for a New Mixed-Mode Master Student
@@ -584,3 +586,5 @@ Your dissertation must be built as an academically defensible study from the fir
 **[Supervision Handbook](supervision_handbook.md)**
 
 **[Student Briefing Document](student_briefing.md)**
+
+**[Week-by-week Supervision Logbook](logbook.md)**
