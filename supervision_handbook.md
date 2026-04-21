@@ -4,6 +4,8 @@
 
 **[Student Briefing Document](student_briefing.md)**
 
+---
+
 # Formal Supervision Handbook
 
 ## Master of Computer Science (Mixed Mode)  
