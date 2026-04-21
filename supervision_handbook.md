@@ -1,3 +1,9 @@
+**[Structured Guidance for a New Mixed-Mode Master Student](README.md)**
+
+**[Supervision Handbook](supervision_handbook.md)**
+
+**[Student Briefing Document](student_briefing.md)**
+
 # Formal Supervision Handbook
 
 ## Master of Computer Science (Mixed Mode)  
@@ -579,3 +585,10 @@ These questions correspond directly to the assessment logic embedded in the uplo
 ## 20. Closing Statement to the Student
 
 The dissertation is the clearest evidence of the student’s maturity as a postgraduate candidate. It must show discipline, depth, technical competence, critical thinking, and academic integrity. A successful mixed-mode dissertation is not produced by last-minute writing or by technical implementation alone. It is produced through sustained and structured engagement with a real research problem, careful reading, defensible method design, disciplined analysis, and clear scholarly writing. The standards set in this handbook are intended to help the student meet the level expected in the formal dissertation assessment.  [oai_citation:13‡SKM_C650i26032611060.pdf](sediment://file_000000001808720b895bb6f0bc0818f9)
+
+---
+**[Structured Guidance for a New Mixed-Mode Master Student](README.md)**
+
+**[Supervision Handbook](supervision_handbook.md)**
+
+**[Student Briefing Document](student_briefing.md)**
