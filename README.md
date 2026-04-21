@@ -1,5 +1,7 @@
 **[Structured Guidance for a New Mixed-Mode Master Student](README.md)**
+
 **[Supervision Handbook](supervision_handbook.md)**
+
 **[Student Briefing Document](student_briefing.md)**
 
 # Structured Guidance for a New Mixed-Mode Master Student
